@@ -185,9 +185,10 @@ const tooltip = d3.select("#chart")
 .append("div")
   .style("position", "absolute")
   .style("visibility", "hidden")
-  .style("width", "200px")
-  .style("height", "200px")
   .style("pointer-events", "none")
+  .style("background-color", "#ECF0F1")
+  .style("border-color", "#aaa")
+  .style("border-radius", "10px")
 
   const setTooltip = (event, data) => {
     const { team, oppTeam, rawSuccess, rawOppTeamSuccess} = data;
@@ -199,17 +200,20 @@ const tooltip = d3.select("#chart")
       .style("top", event.pageY + 20 + "px")
       .style("left", event.pageX - 65 + "px")
       .style("visibility", "visible").html(`
-            <div class="info-column info-stat" style="color: ${colorMap[team].primary}">
+            <div class="info-column info-stat" style="color: ${colorMap[team].primary}; float: left; width: 50px; margin-left: 20px">
               <p class="text-lg">${team}</p>
               <svg width="25" height="25">       
                 ${teamLinkImage}
               </svg>
               <p class="text-lg">${rawSuccess}</p>
             </div>
-            <div class="info-column">
-              <p class="text-sm">VS</p>
+            <div class="info-column" style="float: left; width: 50px; height: 50px">
+              <br>
+              <br>
+              <p class="text-sm">   VS   </p>
+              <br>
             </div>
-            <div class="info-column info-stat" style="color: ${colorMap[oppTeam].primary}">
+            <div class="info-column info-stat" style="color: ${colorMap[oppTeam].primary}; float: left; width: 50px">
               <p class="text-lg">${oppTeam}</p>
               <svg width="25" height="25">       
                 ${oppTeamLinkImage}  

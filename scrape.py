@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import datetime
 import re
 import json
-import numpy as np
 
 TEAMS = {
     'Arizona Cardinals': 'ARI',
