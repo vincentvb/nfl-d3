@@ -1,7 +1,7 @@
 import preppedData from "./preppedData_new.json" assert { type: "json" };
 import data from "./data_new.json" assert { type: "json" };
 import colorMap from "./colorMap.json" assert { type: "json" };
-import TEAMS from './teams.json' assert {type: 'json'};
+import TEAMS from "./teams.json" assert { type: "json" };
 
 (function () {
   const MATCH_WIDTH = 10;
@@ -216,17 +216,17 @@ import TEAMS from './teams.json' assert {type: 'json'};
           `);
   };
 
-  Object.keys(TEAMS).forEach((team) => {
+  Object.keys(TEAMS).forEach(team => {
     const form = document.getElementById("team-form");
     const entry = document.createElement("option");
     entry.text = team;
     form.add(entry);
-  })
+  });
 
   const selector = document.getElementById("team-form");
   selector.addEventListener("change", () => {
     const currentValue = selector.value;
-    const team = TEAMS[currentValue]
+    const team = TEAMS[currentValue];
     highlightPath({ team }, gameScale, xScale, yScale);
-  })
+  });
 })();
