@@ -1,6 +1,7 @@
 import preppedData from "./preppedData_new.json" assert { type: "json" };
 import data from "./data_new.json" assert { type: "json" };
 import colorMap from "./colorMap.json" assert { type: "json" };
+import TEAMS from './teams.json' assert {type: 'json'};
 
 (function () {
   const MATCH_WIDTH = 10;
@@ -24,12 +25,10 @@ import colorMap from "./colorMap.json" assert { type: "json" };
 
   const g = svg.append("g").attr("transform", `translate(${margin.left}, ${margin.top})`).attr("class", "plotGroup");
 
-  // Scales
   const xScale = d3.scaleBand().domain(weeks).range([0, plotWidth]);
   const yScale = d3.scaleBand().domain(d3.range(maxMatchesWeek)).range([0, plotHeight]).paddingInner(0.3);
   const gameScale = d3.scaleLinear().domain([0, 100]).range([yScale.bandwidth(), 0]);
 
-  // Week Labels
   const weekGroups = g
     .selectAll(".week")
     .data(preppedData)
@@ -110,7 +109,7 @@ import colorMap from "./colorMap.json" assert { type: "json" };
     .attr("stroke", "white")
     .on("mouseover", (event, data) => {
       highlightPath(data, gameScale, xScale, yScale);
-      setTooltip(event, data)
+      setTooltip(event, data);
     })
     .on("mouseout", (event, data) => {
       g.selectAll(".highlight").data([]).join("path").attr("class", "highlight");
@@ -174,24 +173,18 @@ import colorMap from "./colorMap.json" assert { type: "json" };
       .attr("font-weight", d => (games.includes(d.idx) ? "600" : "normal"));
   };
 
-//   const tooltip = d3.select("#chart").append("div")	
-//   .style("position", "absolute")
-//   .style("width", "200px")
-//   .style("height", "200px")
-//   .style("pointer-events", "none")
-//   .style("opacity", 0);
-
-const tooltip = d3.select("#chart")
-.append("div")
-  .style("position", "absolute")
-  .style("visibility", "hidden")
-  .style("pointer-events", "none")
-  .style("background-color", "#ECF0F1")
-  .style("border-color", "#aaa")
-  .style("border-radius", "10px")
+  const tooltip = d3
+    .select("#chart")
+    .append("div")
+    .style("position", "absolute")
+    .style("visibility", "hidden")
+    .style("pointer-events", "none")
+    .style("background-color", "#ECF0F1")
+    .style("border-color", "#aaa")
+    .style("border-radius", "10px");
 
   const setTooltip = (event, data) => {
-    const { team, oppTeam, rawSuccess, rawOppTeamSuccess} = data;
+    const { team, oppTeam, rawSuccess, rawOppTeamSuccess } = data;
     const logoBaseURL = team => `https://sportsbook.draftkings.com/static/logos/teams/nfl/${team}.png`;
     const teamLinkImage = `<image xlink:href=${logoBaseURL(team)} width="25" height="25"/>`;
     const oppTeamLinkImage = `<image xlink:href=${logoBaseURL(oppTeam)} width="25" height="25"/>`;
@@ -222,4 +215,18 @@ const tooltip = d3.select("#chart")
             </div>
           `);
   };
+
+  Object.keys(TEAMS).forEach((team) => {
+    const form = document.getElementById("team-form");
+    const entry = document.createElement("option");
+    entry.text = team;
+    form.add(entry);
+  })
+
+  const selector = document.getElementById("team-form");
+  selector.addEventListener("change", () => {
+    const currentValue = selector.value;
+    const team = TEAMS[currentValue]
+    highlightPath({ team }, gameScale, xScale, yScale);
+  })
 })();
