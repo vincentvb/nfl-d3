@@ -1,0 +1,6022 @@
+[
+  [
+    [
+      {
+        "team": "TB",
+        "success": 52.0,
+        "rawSuccess": 31,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 29,
+        "week": 1,
+        "idx": 0
+      },
+      {
+        "team": "DAL",
+        "success": 48.0,
+        "rawSuccess": 29,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 31,
+        "week": 1,
+        "idx": 0
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 84.0,
+        "rawSuccess": 32,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 16.0,
+        "rawOppTeamSuccess": 6,
+        "week": 1,
+        "idx": 1
+      },
+      {
+        "team": "ATL",
+        "success": 16.0,
+        "rawSuccess": 6,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 84.0,
+        "rawOppTeamSuccess": 32,
+        "week": 1,
+        "idx": 1
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 59.0,
+        "rawSuccess": 23,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 16,
+        "week": 1,
+        "idx": 2
+      },
+      {
+        "team": "BUF",
+        "success": 41.0,
+        "rawSuccess": 16,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 23,
+        "week": 1,
+        "idx": 2
+      }
+    ],
+    [
+      {
+        "team": "CAR",
+        "success": 58.0,
+        "rawSuccess": 19,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 14,
+        "week": 1,
+        "idx": 3
+      },
+      {
+        "team": "NYJ",
+        "success": 42.0,
+        "rawSuccess": 14,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 19,
+        "week": 1,
+        "idx": 3
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 1,
+        "idx": 4
+      },
+      {
+        "team": "MIN",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 1,
+        "idx": 4
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 64.0,
+        "rawSuccess": 28,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 16,
+        "week": 1,
+        "idx": 5
+      },
+      {
+        "team": "IND",
+        "success": 36.0,
+        "rawSuccess": 16,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 28,
+        "week": 1,
+        "idx": 5
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 75.0,
+        "rawSuccess": 38,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 25.0,
+        "rawOppTeamSuccess": 13,
+        "week": 1,
+        "idx": 6
+      },
+      {
+        "team": "TEN",
+        "success": 25.0,
+        "rawSuccess": 13,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 75.0,
+        "rawOppTeamSuccess": 38,
+        "week": 1,
+        "idx": 6
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 55.0,
+        "rawSuccess": 41,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 33,
+        "week": 1,
+        "idx": 7
+      },
+      {
+        "team": "DET",
+        "success": 45.0,
+        "rawSuccess": 33,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 41,
+        "week": 1,
+        "idx": 7
+      }
+    ],
+    [
+      {
+        "team": "HOU",
+        "success": 64.0,
+        "rawSuccess": 37,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 21,
+        "week": 1,
+        "idx": 8
+      },
+      {
+        "team": "JAX",
+        "success": 36.0,
+        "rawSuccess": 21,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 37,
+        "week": 1,
+        "idx": 8
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 56.0,
+        "rawSuccess": 20,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 16,
+        "week": 1,
+        "idx": 9
+      },
+      {
+        "team": "WAS",
+        "success": 44.0,
+        "rawSuccess": 16,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 20,
+        "week": 1,
+        "idx": 9
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 53.0,
+        "rawSuccess": 33,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 29,
+        "week": 1,
+        "idx": 10
+      },
+      {
+        "team": "CLE",
+        "success": 47.0,
+        "rawSuccess": 29,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 33,
+        "week": 1,
+        "idx": 10
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 68.0,
+        "rawSuccess": 27,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 32.0,
+        "rawOppTeamSuccess": 13,
+        "week": 1,
+        "idx": 11
+      },
+      {
+        "team": "NYG",
+        "success": 32.0,
+        "rawSuccess": 13,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 68.0,
+        "rawOppTeamSuccess": 27,
+        "week": 1,
+        "idx": 11
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 93.0,
+        "rawSuccess": 38,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 7.0,
+        "rawOppTeamSuccess": 3,
+        "week": 1,
+        "idx": 12
+      },
+      {
+        "team": "GB",
+        "success": 7.0,
+        "rawSuccess": 3,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 93.0,
+        "rawOppTeamSuccess": 38,
+        "week": 1,
+        "idx": 12
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 52.0,
+        "rawSuccess": 17,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 16,
+        "week": 1,
+        "idx": 13
+      },
+      {
+        "team": "NE",
+        "success": 48.0,
+        "rawSuccess": 16,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 17,
+        "week": 1,
+        "idx": 13
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 71.0,
+        "rawSuccess": 34,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 14,
+        "week": 1,
+        "idx": 14
+      },
+      {
+        "team": "CHI",
+        "success": 29.0,
+        "rawSuccess": 14,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 34,
+        "week": 1,
+        "idx": 14
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 55.0,
+        "rawSuccess": 33,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 27,
+        "week": 1,
+        "idx": 15
+      },
+      {
+        "team": "BAL",
+        "success": 45.0,
+        "rawSuccess": 27,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 33,
+        "week": 1,
+        "idx": 15
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "WAS",
+        "success": 51.0,
+        "rawSuccess": 30,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 29,
+        "week": 2,
+        "idx": 16
+      },
+      {
+        "team": "NYG",
+        "success": 49.0,
+        "rawSuccess": 29,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 30,
+        "week": 2,
+        "idx": 16
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 100.0,
+        "rawSuccess": 35,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 2,
+        "idx": 17
+      },
+      {
+        "team": "MIA",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 35,
+        "week": 2,
+        "idx": 17
+      }
+    ],
+    [
+      {
+        "team": "CAR",
+        "success": 79.0,
+        "rawSuccess": 26,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 21.0,
+        "rawOppTeamSuccess": 7,
+        "week": 2,
+        "idx": 18
+      },
+      {
+        "team": "NO",
+        "success": 21.0,
+        "rawSuccess": 7,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 79.0,
+        "rawOppTeamSuccess": 26,
+        "week": 2,
+        "idx": 18
+      }
+    ],
+    [
+      {
+        "team": "CHI",
+        "success": 54.0,
+        "rawSuccess": 20,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 17,
+        "week": 2,
+        "idx": 19
+      },
+      {
+        "team": "CIN",
+        "success": 46.0,
+        "rawSuccess": 17,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 20,
+        "week": 2,
+        "idx": 19
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 60.0,
+        "rawSuccess": 31,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 21,
+        "week": 2,
+        "idx": 20
+      },
+      {
+        "team": "HOU",
+        "success": 40.0,
+        "rawSuccess": 21,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 31,
+        "week": 2,
+        "idx": 20
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 2,
+        "idx": 21
+      },
+      {
+        "team": "IND",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 2,
+        "idx": 21
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 64.0,
+        "rawSuccess": 23,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 13,
+        "week": 2,
+        "idx": 22
+      },
+      {
+        "team": "JAX",
+        "success": 36.0,
+        "rawSuccess": 13,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 23,
+        "week": 2,
+        "idx": 22
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 81.0,
+        "rawSuccess": 25,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 19.0,
+        "rawOppTeamSuccess": 6,
+        "week": 2,
+        "idx": 23
+      },
+      {
+        "team": "NYJ",
+        "success": 19.0,
+        "rawSuccess": 6,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 81.0,
+        "rawOppTeamSuccess": 25,
+        "week": 2,
+        "idx": 23
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 61.0,
+        "rawSuccess": 17,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 11,
+        "week": 2,
+        "idx": 24
+      },
+      {
+        "team": "PHI",
+        "success": 39.0,
+        "rawSuccess": 11,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 17,
+        "week": 2,
+        "idx": 24
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 60.0,
+        "rawSuccess": 26,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 17,
+        "week": 2,
+        "idx": 25
+      },
+      {
+        "team": "PIT",
+        "success": 40.0,
+        "rawSuccess": 17,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 26,
+        "week": 2,
+        "idx": 25
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 66.0,
+        "rawSuccess": 48,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 25,
+        "week": 2,
+        "idx": 26
+      },
+      {
+        "team": "ATL",
+        "success": 34.0,
+        "rawSuccess": 25,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 48,
+        "week": 2,
+        "idx": 26
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 51.0,
+        "rawSuccess": 34,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 33,
+        "week": 2,
+        "idx": 27
+      },
+      {
+        "team": "MIN",
+        "success": 49.0,
+        "rawSuccess": 33,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 34,
+        "week": 2,
+        "idx": 27
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 54.0,
+        "rawSuccess": 20,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 17,
+        "week": 2,
+        "idx": 28
+      },
+      {
+        "team": "LAC",
+        "success": 46.0,
+        "rawSuccess": 17,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 20,
+        "week": 2,
+        "idx": 28
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 52.0,
+        "rawSuccess": 33,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 30,
+        "week": 2,
+        "idx": 29
+      },
+      {
+        "team": "SEA",
+        "success": 48.0,
+        "rawSuccess": 30,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 33,
+        "week": 2,
+        "idx": 29
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 51.0,
+        "rawSuccess": 36,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 35,
+        "week": 2,
+        "idx": 30
+      },
+      {
+        "team": "KC",
+        "success": 49.0,
+        "rawSuccess": 35,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 36,
+        "week": 2,
+        "idx": 30
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 67.0,
+        "rawSuccess": 35,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 33.0,
+        "rawOppTeamSuccess": 17,
+        "week": 2,
+        "idx": 31
+      },
+      {
+        "team": "DET",
+        "success": 33.0,
+        "rawSuccess": 17,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 67.0,
+        "rawOppTeamSuccess": 35,
+        "week": 2,
+        "idx": 31
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "CAR",
+        "success": 73.0,
+        "rawSuccess": 24,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 9,
+        "week": 3,
+        "idx": 32
+      },
+      {
+        "team": "HOU",
+        "success": 27.0,
+        "rawSuccess": 9,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 24,
+        "week": 3,
+        "idx": 32
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 55.0,
+        "rawSuccess": 17,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 14,
+        "week": 3,
+        "idx": 33
+      },
+      {
+        "team": "NYG",
+        "success": 45.0,
+        "rawSuccess": 14,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 17,
+        "week": 3,
+        "idx": 33
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 67.0,
+        "rawSuccess": 43,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 33.0,
+        "rawOppTeamSuccess": 21,
+        "week": 3,
+        "idx": 34
+      },
+      {
+        "team": "WAS",
+        "success": 33.0,
+        "rawSuccess": 21,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 67.0,
+        "rawOppTeamSuccess": 43,
+        "week": 3,
+        "idx": 34
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 81.0,
+        "rawSuccess": 26,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 19.0,
+        "rawOppTeamSuccess": 6,
+        "week": 3,
+        "idx": 35
+      },
+      {
+        "team": "CHI",
+        "success": 19.0,
+        "rawSuccess": 6,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 81.0,
+        "rawOppTeamSuccess": 26,
+        "week": 3,
+        "idx": 35
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 71.0,
+        "rawSuccess": 24,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 10,
+        "week": 3,
+        "idx": 36
+      },
+      {
+        "team": "PIT",
+        "success": 29.0,
+        "rawSuccess": 10,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 24,
+        "week": 3,
+        "idx": 36
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 61.0,
+        "rawSuccess": 25,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 16,
+        "week": 3,
+        "idx": 37
+      },
+      {
+        "team": "IND",
+        "success": 39.0,
+        "rawSuccess": 16,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 25,
+        "week": 3,
+        "idx": 37
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 62.0,
+        "rawSuccess": 31,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 38.0,
+        "rawOppTeamSuccess": 19,
+        "week": 3,
+        "idx": 38
+      },
+      {
+        "team": "JAX",
+        "success": 38.0,
+        "rawSuccess": 19,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 62.0,
+        "rawOppTeamSuccess": 31,
+        "week": 3,
+        "idx": 38
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 53.0,
+        "rawSuccess": 19,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 17,
+        "week": 3,
+        "idx": 39
+      },
+      {
+        "team": "DET",
+        "success": 47.0,
+        "rawSuccess": 17,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 19,
+        "week": 3,
+        "idx": 39
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 56.0,
+        "rawSuccess": 30,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 24,
+        "week": 3,
+        "idx": 40
+      },
+      {
+        "team": "KC",
+        "success": 44.0,
+        "rawSuccess": 24,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 30,
+        "week": 3,
+        "idx": 40
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 68.0,
+        "rawSuccess": 28,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 32.0,
+        "rawOppTeamSuccess": 13,
+        "week": 3,
+        "idx": 41
+      },
+      {
+        "team": "NE",
+        "success": 32.0,
+        "rawSuccess": 13,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 68.0,
+        "rawOppTeamSuccess": 28,
+        "week": 3,
+        "idx": 41
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 100.0,
+        "rawSuccess": 26,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 3,
+        "idx": 42
+      },
+      {
+        "team": "NYJ",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 26,
+        "week": 3,
+        "idx": 42
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 53.0,
+        "rawSuccess": 31,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 28,
+        "week": 3,
+        "idx": 43
+      },
+      {
+        "team": "MIA",
+        "success": 47.0,
+        "rawSuccess": 28,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 31,
+        "week": 3,
+        "idx": 43
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 64.0,
+        "rawSuccess": 30,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 17,
+        "week": 3,
+        "idx": 44
+      },
+      {
+        "team": "SEA",
+        "success": 36.0,
+        "rawSuccess": 17,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 30,
+        "week": 3,
+        "idx": 44
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 59.0,
+        "rawSuccess": 34,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 24,
+        "week": 3,
+        "idx": 45
+      },
+      {
+        "team": "TB",
+        "success": 41.0,
+        "rawSuccess": 24,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 34,
+        "week": 3,
+        "idx": 45
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 52.0,
+        "rawSuccess": 30,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 28,
+        "week": 3,
+        "idx": 46
+      },
+      {
+        "team": "SF",
+        "success": 48.0,
+        "rawSuccess": 28,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 30,
+        "week": 3,
+        "idx": 46
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 66.0,
+        "rawSuccess": 41,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 21,
+        "week": 3,
+        "idx": 47
+      },
+      {
+        "team": "PHI",
+        "success": 34.0,
+        "rawSuccess": 21,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 41,
+        "week": 3,
+        "idx": 47
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "CIN",
+        "success": 53.0,
+        "rawSuccess": 24,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 21,
+        "week": 4,
+        "idx": 48
+      },
+      {
+        "team": "JAX",
+        "success": 47.0,
+        "rawSuccess": 21,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 24,
+        "week": 4,
+        "idx": 48
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 53.0,
+        "rawSuccess": 34,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 30,
+        "week": 4,
+        "idx": 49
+      },
+      {
+        "team": "ATL",
+        "success": 47.0,
+        "rawSuccess": 30,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 34,
+        "week": 4,
+        "idx": 49
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 100.0,
+        "rawSuccess": 40,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 4,
+        "idx": 50
+      },
+      {
+        "team": "HOU",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 40,
+        "week": 4,
+        "idx": 50
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 56.0,
+        "rawSuccess": 36,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 28,
+        "week": 4,
+        "idx": 51
+      },
+      {
+        "team": "CAR",
+        "success": 44.0,
+        "rawSuccess": 28,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 36,
+        "week": 4,
+        "idx": 51
+      }
+    ],
+    [
+      {
+        "team": "CHI",
+        "success": 63.0,
+        "rawSuccess": 24,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 14,
+        "week": 4,
+        "idx": 52
+      },
+      {
+        "team": "DET",
+        "success": 37.0,
+        "rawSuccess": 14,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 24,
+        "week": 4,
+        "idx": 52
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 67.0,
+        "rawSuccess": 14,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 33.0,
+        "rawOppTeamSuccess": 7,
+        "week": 4,
+        "idx": 53
+      },
+      {
+        "team": "MIN",
+        "success": 33.0,
+        "rawSuccess": 7,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 67.0,
+        "rawOppTeamSuccess": 14,
+        "week": 4,
+        "idx": 53
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 61.0,
+        "rawSuccess": 27,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 17,
+        "week": 4,
+        "idx": 54
+      },
+      {
+        "team": "MIA",
+        "success": 39.0,
+        "rawSuccess": 17,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 27,
+        "week": 4,
+        "idx": 54
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 58.0,
+        "rawSuccess": 42,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 30,
+        "week": 4,
+        "idx": 55
+      },
+      {
+        "team": "PHI",
+        "success": 42.0,
+        "rawSuccess": 30,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 42,
+        "week": 4,
+        "idx": 55
+      }
+    ],
+    [
+      {
+        "team": "NYG",
+        "success": 56.0,
+        "rawSuccess": 27,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 21,
+        "week": 4,
+        "idx": 56
+      },
+      {
+        "team": "NO",
+        "success": 44.0,
+        "rawSuccess": 21,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 27,
+        "week": 4,
+        "idx": 56
+      }
+    ],
+    [
+      {
+        "team": "NYJ",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 4,
+        "idx": 57
+      },
+      {
+        "team": "TEN",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 4,
+        "idx": 57
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 65.0,
+        "rawSuccess": 37,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 20,
+        "week": 4,
+        "idx": 58
+      },
+      {
+        "team": "LAR",
+        "success": 35.0,
+        "rawSuccess": 20,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 37,
+        "week": 4,
+        "idx": 58
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 57.0,
+        "rawSuccess": 28,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 21,
+        "week": 4,
+        "idx": 59
+      },
+      {
+        "team": "SF",
+        "success": 43.0,
+        "rawSuccess": 21,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 28,
+        "week": 4,
+        "idx": 59
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 77.0,
+        "rawSuccess": 23,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 7,
+        "week": 4,
+        "idx": 60
+      },
+      {
+        "team": "DEN",
+        "success": 23.0,
+        "rawSuccess": 7,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 23,
+        "week": 4,
+        "idx": 60
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 61.0,
+        "rawSuccess": 27,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 17,
+        "week": 4,
+        "idx": 61
+      },
+      {
+        "team": "PIT",
+        "success": 39.0,
+        "rawSuccess": 17,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 27,
+        "week": 4,
+        "idx": 61
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 53.0,
+        "rawSuccess": 19,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 17,
+        "week": 4,
+        "idx": 62
+      },
+      {
+        "team": "NE",
+        "success": 47.0,
+        "rawSuccess": 17,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 19,
+        "week": 4,
+        "idx": 62
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 67.0,
+        "rawSuccess": 28,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 33.0,
+        "rawOppTeamSuccess": 14,
+        "week": 4,
+        "idx": 63
+      },
+      {
+        "team": "LV",
+        "success": 33.0,
+        "rawSuccess": 14,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 67.0,
+        "rawOppTeamSuccess": 28,
+        "week": 4,
+        "idx": 63
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "LAR",
+        "success": 60.0,
+        "rawSuccess": 26,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 17,
+        "week": 5,
+        "idx": 64
+      },
+      {
+        "team": "SEA",
+        "success": 40.0,
+        "rawSuccess": 17,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 26,
+        "week": 5,
+        "idx": 64
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 57.0,
+        "rawSuccess": 27,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 20,
+        "week": 5,
+        "idx": 65
+      },
+      {
+        "team": "NYJ",
+        "success": 43.0,
+        "rawSuccess": 20,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 27,
+        "week": 5,
+        "idx": 65
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 54.0,
+        "rawSuccess": 21,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 18,
+        "week": 5,
+        "idx": 66
+      },
+      {
+        "team": "CAR",
+        "success": 46.0,
+        "rawSuccess": 18,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 21,
+        "week": 5,
+        "idx": 66
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 53.0,
+        "rawSuccess": 25,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 22,
+        "week": 5,
+        "idx": 67
+      },
+      {
+        "team": "CIN",
+        "success": 47.0,
+        "rawSuccess": 22,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 25,
+        "week": 5,
+        "idx": 67
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 59.0,
+        "rawSuccess": 27,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 19,
+        "week": 5,
+        "idx": 68
+      },
+      {
+        "team": "DEN",
+        "success": 41.0,
+        "rawSuccess": 19,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 27,
+        "week": 5,
+        "idx": 68
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 53.0,
+        "rawSuccess": 19,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 17,
+        "week": 5,
+        "idx": 69
+      },
+      {
+        "team": "DET",
+        "success": 47.0,
+        "rawSuccess": 17,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 19,
+        "week": 5,
+        "idx": 69
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 53.0,
+        "rawSuccess": 25,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 22,
+        "week": 5,
+        "idx": 70
+      },
+      {
+        "team": "HOU",
+        "success": 47.0,
+        "rawSuccess": 22,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 25,
+        "week": 5,
+        "idx": 70
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 66.0,
+        "rawSuccess": 37,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 19,
+        "week": 5,
+        "idx": 71
+      },
+      {
+        "team": "JAX",
+        "success": 34.0,
+        "rawSuccess": 19,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 37,
+        "week": 5,
+        "idx": 71
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 73.0,
+        "rawSuccess": 45,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 17,
+        "week": 5,
+        "idx": 72
+      },
+      {
+        "team": "MIA",
+        "success": 27.0,
+        "rawSuccess": 17,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 45,
+        "week": 5,
+        "idx": 72
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 60.0,
+        "rawSuccess": 33,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 22,
+        "week": 5,
+        "idx": 73
+      },
+      {
+        "team": "WAS",
+        "success": 40.0,
+        "rawSuccess": 22,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 33,
+        "week": 5,
+        "idx": 73
+      }
+    ],
+    [
+      {
+        "team": "CHI",
+        "success": 69.0,
+        "rawSuccess": 20,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 31.0,
+        "rawOppTeamSuccess": 9,
+        "week": 5,
+        "idx": 74
+      },
+      {
+        "team": "LV",
+        "success": 31.0,
+        "rawSuccess": 9,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 69.0,
+        "rawOppTeamSuccess": 20,
+        "week": 5,
+        "idx": 74
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 53.0,
+        "rawSuccess": 47,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 42,
+        "week": 5,
+        "idx": 75
+      },
+      {
+        "team": "CLE",
+        "success": 47.0,
+        "rawSuccess": 42,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 47,
+        "week": 5,
+        "idx": 75
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 63.0,
+        "rawSuccess": 17,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 10,
+        "week": 5,
+        "idx": 76
+      },
+      {
+        "team": "SF",
+        "success": 37.0,
+        "rawSuccess": 10,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 17,
+        "week": 5,
+        "idx": 76
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 69.0,
+        "rawSuccess": 44,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 31.0,
+        "rawOppTeamSuccess": 20,
+        "week": 5,
+        "idx": 77
+      },
+      {
+        "team": "NYG",
+        "success": 31.0,
+        "rawSuccess": 20,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 69.0,
+        "rawOppTeamSuccess": 44,
+        "week": 5,
+        "idx": 77
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 66.0,
+        "rawSuccess": 38,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 20,
+        "week": 5,
+        "idx": 78
+      },
+      {
+        "team": "KC",
+        "success": 34.0,
+        "rawSuccess": 20,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 38,
+        "week": 5,
+        "idx": 78
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 55.0,
+        "rawSuccess": 31,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 25,
+        "week": 5,
+        "idx": 79
+      },
+      {
+        "team": "IND",
+        "success": 45.0,
+        "rawSuccess": 25,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 31,
+        "week": 5,
+        "idx": 79
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "TB",
+        "success": 56.0,
+        "rawSuccess": 28,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 22,
+        "week": 6,
+        "idx": 80
+      },
+      {
+        "team": "PHI",
+        "success": 44.0,
+        "rawSuccess": 22,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 28,
+        "week": 6,
+        "idx": 80
+      }
+    ],
+    [
+      {
+        "team": "JAX",
+        "success": 53.0,
+        "rawSuccess": 23,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 20,
+        "week": 6,
+        "idx": 81
+      },
+      {
+        "team": "MIA",
+        "success": 47.0,
+        "rawSuccess": 20,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 23,
+        "week": 6,
+        "idx": 81
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 55.0,
+        "rawSuccess": 34,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 28,
+        "week": 6,
+        "idx": 82
+      },
+      {
+        "team": "CAR",
+        "success": 45.0,
+        "rawSuccess": 28,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 34,
+        "week": 6,
+        "idx": 82
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 63.0,
+        "rawSuccess": 24,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 14,
+        "week": 6,
+        "idx": 83
+      },
+      {
+        "team": "CHI",
+        "success": 37.0,
+        "rawSuccess": 14,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 24,
+        "week": 6,
+        "idx": 83
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 76.0,
+        "rawSuccess": 34,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 24.0,
+        "rawOppTeamSuccess": 11,
+        "week": 6,
+        "idx": 84
+      },
+      {
+        "team": "DET",
+        "success": 24.0,
+        "rawSuccess": 11,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 76.0,
+        "rawOppTeamSuccess": 34,
+        "week": 6,
+        "idx": 84
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 91.0,
+        "rawSuccess": 31,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 9.0,
+        "rawOppTeamSuccess": 3,
+        "week": 6,
+        "idx": 85
+      },
+      {
+        "team": "HOU",
+        "success": 9.0,
+        "rawSuccess": 3,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 91.0,
+        "rawOppTeamSuccess": 31,
+        "week": 6,
+        "idx": 85
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 70.0,
+        "rawSuccess": 31,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 30.0,
+        "rawOppTeamSuccess": 13,
+        "week": 6,
+        "idx": 86
+      },
+      {
+        "team": "WAS",
+        "success": 30.0,
+        "rawSuccess": 13,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 70.0,
+        "rawOppTeamSuccess": 31,
+        "week": 6,
+        "idx": 86
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 78.0,
+        "rawSuccess": 38,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 22.0,
+        "rawOppTeamSuccess": 11,
+        "week": 6,
+        "idx": 87
+      },
+      {
+        "team": "NYG",
+        "success": 22.0,
+        "rawSuccess": 11,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 78.0,
+        "rawOppTeamSuccess": 38,
+        "week": 6,
+        "idx": 87
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 85.0,
+        "rawSuccess": 34,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 15.0,
+        "rawOppTeamSuccess": 6,
+        "week": 6,
+        "idx": 88
+      },
+      {
+        "team": "LAC",
+        "success": 15.0,
+        "rawSuccess": 6,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 85.0,
+        "rawOppTeamSuccess": 34,
+        "week": 6,
+        "idx": 88
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 73.0,
+        "rawSuccess": 37,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 14,
+        "week": 6,
+        "idx": 89
+      },
+      {
+        "team": "CLE",
+        "success": 27.0,
+        "rawSuccess": 14,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 37,
+        "week": 6,
+        "idx": 89
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 55.0,
+        "rawSuccess": 35,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 29,
+        "week": 6,
+        "idx": 90
+      },
+      {
+        "team": "NE",
+        "success": 45.0,
+        "rawSuccess": 29,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 35,
+        "week": 6,
+        "idx": 90
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 59.0,
+        "rawSuccess": 34,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 24,
+        "week": 6,
+        "idx": 91
+      },
+      {
+        "team": "DEN",
+        "success": 41.0,
+        "rawSuccess": 24,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 34,
+        "week": 6,
+        "idx": 91
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 53.0,
+        "rawSuccess": 23,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 20,
+        "week": 6,
+        "idx": 92
+      },
+      {
+        "team": "SEA",
+        "success": 47.0,
+        "rawSuccess": 20,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 23,
+        "week": 6,
+        "idx": 92
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 6,
+        "idx": 93
+      },
+      {
+        "team": "BUF",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 6,
+        "idx": 93
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "CLE",
+        "success": 55.0,
+        "rawSuccess": 17,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 14,
+        "week": 7,
+        "idx": 94
+      },
+      {
+        "team": "DEN",
+        "success": 45.0,
+        "rawSuccess": 14,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 17,
+        "week": 7,
+        "idx": 94
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 52.0,
+        "rawSuccess": 30,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 28,
+        "week": 7,
+        "idx": 95
+      },
+      {
+        "team": "MIA",
+        "success": 48.0,
+        "rawSuccess": 28,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 30,
+        "week": 7,
+        "idx": 95
+      }
+    ],
+    [
+      {
+        "team": "NYG",
+        "success": 89.0,
+        "rawSuccess": 25,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 11.0,
+        "rawOppTeamSuccess": 3,
+        "week": 7,
+        "idx": 96
+      },
+      {
+        "team": "CAR",
+        "success": 11.0,
+        "rawSuccess": 3,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 89.0,
+        "rawOppTeamSuccess": 25,
+        "week": 7,
+        "idx": 96
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 71.0,
+        "rawSuccess": 41,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 17,
+        "week": 7,
+        "idx": 97
+      },
+      {
+        "team": "BAL",
+        "success": 29.0,
+        "rawSuccess": 17,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 41,
+        "week": 7,
+        "idx": 97
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 71.0,
+        "rawSuccess": 24,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 10,
+        "week": 7,
+        "idx": 98
+      },
+      {
+        "team": "WAS",
+        "success": 29.0,
+        "rawSuccess": 10,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 24,
+        "week": 7,
+        "idx": 98
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 90.0,
+        "rawSuccess": 27,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 10.0,
+        "rawOppTeamSuccess": 3,
+        "week": 7,
+        "idx": 99
+      },
+      {
+        "team": "KC",
+        "success": 10.0,
+        "rawSuccess": 3,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 90.0,
+        "rawOppTeamSuccess": 27,
+        "week": 7,
+        "idx": 99
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 81.0,
+        "rawSuccess": 54,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 19.0,
+        "rawOppTeamSuccess": 13,
+        "week": 7,
+        "idx": 100
+      },
+      {
+        "team": "NYJ",
+        "success": 19.0,
+        "rawSuccess": 13,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 81.0,
+        "rawOppTeamSuccess": 54,
+        "week": 7,
+        "idx": 100
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 60.0,
+        "rawSuccess": 28,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 19,
+        "week": 7,
+        "idx": 101
+      },
+      {
+        "team": "DET",
+        "success": 40.0,
+        "rawSuccess": 19,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 28,
+        "week": 7,
+        "idx": 101
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 60.0,
+        "rawSuccess": 33,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 22,
+        "week": 7,
+        "idx": 102
+      },
+      {
+        "team": "PHI",
+        "success": 40.0,
+        "rawSuccess": 22,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 33,
+        "week": 7,
+        "idx": 102
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 93.0,
+        "rawSuccess": 38,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 7.0,
+        "rawOppTeamSuccess": 3,
+        "week": 7,
+        "idx": 103
+      },
+      {
+        "team": "CHI",
+        "success": 7.0,
+        "rawSuccess": 3,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 93.0,
+        "rawOppTeamSuccess": 38,
+        "week": 7,
+        "idx": 103
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 86.0,
+        "rawSuccess": 31,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 14.0,
+        "rawOppTeamSuccess": 5,
+        "week": 7,
+        "idx": 104
+      },
+      {
+        "team": "HOU",
+        "success": 14.0,
+        "rawSuccess": 5,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 86.0,
+        "rawOppTeamSuccess": 31,
+        "week": 7,
+        "idx": 104
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 62.0,
+        "rawSuccess": 30,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 38.0,
+        "rawOppTeamSuccess": 18,
+        "week": 7,
+        "idx": 105
+      },
+      {
+        "team": "SF",
+        "success": 38.0,
+        "rawSuccess": 18,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 62.0,
+        "rawOppTeamSuccess": 30,
+        "week": 7,
+        "idx": 105
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 57.0,
+        "rawSuccess": 13,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 10,
+        "week": 7,
+        "idx": 106
+      },
+      {
+        "team": "SEA",
+        "success": 43.0,
+        "rawSuccess": 10,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 13,
+        "week": 7,
+        "idx": 106
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "GB",
+        "success": 53.0,
+        "rawSuccess": 24,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 21,
+        "week": 8,
+        "idx": 107
+      },
+      {
+        "team": "ARI",
+        "success": 47.0,
+        "rawSuccess": 21,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 24,
+        "week": 8,
+        "idx": 107
+      }
+    ],
+    [
+      {
+        "team": "CAR",
+        "success": 59.0,
+        "rawSuccess": 19,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 13,
+        "week": 8,
+        "idx": 108
+      },
+      {
+        "team": "ATL",
+        "success": 41.0,
+        "rawSuccess": 13,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 19,
+        "week": 8,
+        "idx": 108
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 70.0,
+        "rawSuccess": 26,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 30.0,
+        "rawOppTeamSuccess": 11,
+        "week": 8,
+        "idx": 109
+      },
+      {
+        "team": "MIA",
+        "success": 30.0,
+        "rawSuccess": 11,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 70.0,
+        "rawOppTeamSuccess": 26,
+        "week": 8,
+        "idx": 109
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 60.0,
+        "rawSuccess": 33,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 22,
+        "week": 8,
+        "idx": 110
+      },
+      {
+        "team": "CHI",
+        "success": 40.0,
+        "rawSuccess": 22,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 33,
+        "week": 8,
+        "idx": 110
+      }
+    ],
+    [
+      {
+        "team": "NYJ",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 8,
+        "idx": 111
+      },
+      {
+        "team": "CIN",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 8,
+        "idx": 111
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 60.0,
+        "rawSuccess": 15,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 10,
+        "week": 8,
+        "idx": 112
+      },
+      {
+        "team": "CLE",
+        "success": 40.0,
+        "rawSuccess": 10,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 15,
+        "week": 8,
+        "idx": 112
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 8,
+        "idx": 113
+      },
+      {
+        "team": "IND",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 8,
+        "idx": 113
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 88.0,
+        "rawSuccess": 44,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 12.0,
+        "rawOppTeamSuccess": 6,
+        "week": 8,
+        "idx": 114
+      },
+      {
+        "team": "DET",
+        "success": 12.0,
+        "rawSuccess": 6,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 88.0,
+        "rawOppTeamSuccess": 44,
+        "week": 8,
+        "idx": 114
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 63.0,
+        "rawSuccess": 38,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 22,
+        "week": 8,
+        "idx": 115
+      },
+      {
+        "team": "HOU",
+        "success": 37.0,
+        "rawSuccess": 22,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 38,
+        "week": 8,
+        "idx": 115
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 82.0,
+        "rawSuccess": 31,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 18.0,
+        "rawOppTeamSuccess": 7,
+        "week": 8,
+        "idx": 116
+      },
+      {
+        "team": "JAX",
+        "success": 18.0,
+        "rawSuccess": 7,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 82.0,
+        "rawOppTeamSuccess": 31,
+        "week": 8,
+        "idx": 116
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 8,
+        "idx": 117
+      },
+      {
+        "team": "LAC",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 8,
+        "idx": 117
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 57.0,
+        "rawSuccess": 36,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 27,
+        "week": 8,
+        "idx": 118
+      },
+      {
+        "team": "TB",
+        "success": 43.0,
+        "rawSuccess": 27,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 36,
+        "week": 8,
+        "idx": 118
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 63.0,
+        "rawSuccess": 17,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 10,
+        "week": 8,
+        "idx": 119
+      },
+      {
+        "team": "WAS",
+        "success": 37.0,
+        "rawSuccess": 10,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 17,
+        "week": 8,
+        "idx": 119
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 56.0,
+        "rawSuccess": 20,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 16,
+        "week": 8,
+        "idx": 120
+      },
+      {
+        "team": "MIN",
+        "success": 44.0,
+        "rawSuccess": 16,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 20,
+        "week": 8,
+        "idx": 120
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 54.0,
+        "rawSuccess": 20,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 17,
+        "week": 8,
+        "idx": 121
+      },
+      {
+        "team": "NYG",
+        "success": 46.0,
+        "rawSuccess": 17,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 20,
+        "week": 8,
+        "idx": 121
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "IND",
+        "success": 60.0,
+        "rawSuccess": 45,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 30,
+        "week": 9,
+        "idx": 122
+      },
+      {
+        "team": "NYJ",
+        "success": 40.0,
+        "rawSuccess": 30,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 45,
+        "week": 9,
+        "idx": 122
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 52.0,
+        "rawSuccess": 27,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 25,
+        "week": 9,
+        "idx": 123
+      },
+      {
+        "team": "NO",
+        "success": 48.0,
+        "rawSuccess": 25,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 27,
+        "week": 9,
+        "idx": 123
+      }
+    ],
+    [
+      {
+        "team": "JAX",
+        "success": 60.0,
+        "rawSuccess": 9,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 6,
+        "week": 9,
+        "idx": 124
+      },
+      {
+        "team": "BUF",
+        "success": 40.0,
+        "rawSuccess": 6,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 9,
+        "week": 9,
+        "idx": 124
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 65.0,
+        "rawSuccess": 30,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 16,
+        "week": 9,
+        "idx": 125
+      },
+      {
+        "team": "DAL",
+        "success": 35.0,
+        "rawSuccess": 16,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 30,
+        "week": 9,
+        "idx": 125
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 9,
+        "idx": 126
+      },
+      {
+        "team": "MIN",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 9,
+        "idx": 126
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 80.0,
+        "rawSuccess": 24,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 20.0,
+        "rawOppTeamSuccess": 6,
+        "week": 9,
+        "idx": 127
+      },
+      {
+        "team": "CAR",
+        "success": 20.0,
+        "rawSuccess": 6,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 80.0,
+        "rawOppTeamSuccess": 24,
+        "week": 9,
+        "idx": 127
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 72.0,
+        "rawSuccess": 41,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 28.0,
+        "rawOppTeamSuccess": 16,
+        "week": 9,
+        "idx": 128
+      },
+      {
+        "team": "CIN",
+        "success": 28.0,
+        "rawSuccess": 16,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 72.0,
+        "rawOppTeamSuccess": 41,
+        "week": 9,
+        "idx": 128
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 65.0,
+        "rawSuccess": 17,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 9,
+        "week": 9,
+        "idx": 129
+      },
+      {
+        "team": "HOU",
+        "success": 35.0,
+        "rawSuccess": 9,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 17,
+        "week": 9,
+        "idx": 129
+      }
+    ],
+    [
+      {
+        "team": "NYG",
+        "success": 59.0,
+        "rawSuccess": 23,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 16,
+        "week": 9,
+        "idx": 130
+      },
+      {
+        "team": "LV",
+        "success": 41.0,
+        "rawSuccess": 16,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 23,
+        "week": 9,
+        "idx": 130
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 9,
+        "idx": 131
+      },
+      {
+        "team": "PHI",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 9,
+        "idx": 131
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 65.0,
+        "rawSuccess": 31,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 17,
+        "week": 9,
+        "idx": 132
+      },
+      {
+        "team": "SF",
+        "success": 35.0,
+        "rawSuccess": 17,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 31,
+        "week": 9,
+        "idx": 132
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 65.0,
+        "rawSuccess": 13,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 7,
+        "week": 9,
+        "idx": 133
+      },
+      {
+        "team": "GB",
+        "success": 35.0,
+        "rawSuccess": 7,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 13,
+        "week": 9,
+        "idx": 133
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 64.0,
+        "rawSuccess": 28,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 16,
+        "week": 9,
+        "idx": 134
+      },
+      {
+        "team": "LAR",
+        "success": 36.0,
+        "rawSuccess": 16,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 28,
+        "week": 9,
+        "idx": 134
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 52.0,
+        "rawSuccess": 29,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 27,
+        "week": 9,
+        "idx": 135
+      },
+      {
+        "team": "CHI",
+        "success": 48.0,
+        "rawSuccess": 27,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 29,
+        "week": 9,
+        "idx": 135
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "MIA",
+        "success": 69.0,
+        "rawSuccess": 22,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 31.0,
+        "rawOppTeamSuccess": 10,
+        "week": 10,
+        "idx": 136
+      },
+      {
+        "team": "BAL",
+        "success": 31.0,
+        "rawSuccess": 10,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 69.0,
+        "rawOppTeamSuccess": 22,
+        "week": 10,
+        "idx": 136
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 93.0,
+        "rawSuccess": 43,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 7.0,
+        "rawOppTeamSuccess": 3,
+        "week": 10,
+        "idx": 137
+      },
+      {
+        "team": "ATL",
+        "success": 7.0,
+        "rawSuccess": 3,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 93.0,
+        "rawOppTeamSuccess": 43,
+        "week": 10,
+        "idx": 137
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 73.0,
+        "rawSuccess": 45,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 17,
+        "week": 10,
+        "idx": 138
+      },
+      {
+        "team": "NYJ",
+        "success": 27.0,
+        "rawSuccess": 17,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 45,
+        "week": 10,
+        "idx": 138
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 50.0,
+        "rawSuccess": 16,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 50.0,
+        "rawOppTeamSuccess": 16,
+        "week": 10,
+        "idx": 139
+      },
+      {
+        "team": "DET",
+        "success": 50.0,
+        "rawSuccess": 16,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 50.0,
+        "rawOppTeamSuccess": 16,
+        "week": 10,
+        "idx": 139
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 52.0,
+        "rawSuccess": 23,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 21,
+        "week": 10,
+        "idx": 140
+      },
+      {
+        "team": "NO",
+        "success": 48.0,
+        "rawSuccess": 21,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 23,
+        "week": 10,
+        "idx": 140
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 60.0,
+        "rawSuccess": 29,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 19,
+        "week": 10,
+        "idx": 141
+      },
+      {
+        "team": "TB",
+        "success": 40.0,
+        "rawSuccess": 19,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 29,
+        "week": 10,
+        "idx": 141
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 87.0,
+        "rawSuccess": 45,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 13.0,
+        "rawOppTeamSuccess": 7,
+        "week": 10,
+        "idx": 142
+      },
+      {
+        "team": "CLE",
+        "success": 13.0,
+        "rawSuccess": 7,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 87.0,
+        "rawOppTeamSuccess": 45,
+        "week": 10,
+        "idx": 142
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 57.0,
+        "rawSuccess": 23,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 17,
+        "week": 10,
+        "idx": 143
+      },
+      {
+        "team": "JAX",
+        "success": 43.0,
+        "rawSuccess": 17,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 23,
+        "week": 10,
+        "idx": 143
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 57.0,
+        "rawSuccess": 27,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 20,
+        "week": 10,
+        "idx": 144
+      },
+      {
+        "team": "LAC",
+        "success": 43.0,
+        "rawSuccess": 20,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 27,
+        "week": 10,
+        "idx": 144
+      }
+    ],
+    [
+      {
+        "team": "CAR",
+        "success": 77.0,
+        "rawSuccess": 34,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 10,
+        "week": 10,
+        "idx": 145
+      },
+      {
+        "team": "ARI",
+        "success": 23.0,
+        "rawSuccess": 10,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 34,
+        "week": 10,
+        "idx": 145
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 70.0,
+        "rawSuccess": 30,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 30.0,
+        "rawOppTeamSuccess": 13,
+        "week": 10,
+        "idx": 146
+      },
+      {
+        "team": "DEN",
+        "success": 30.0,
+        "rawSuccess": 13,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 70.0,
+        "rawOppTeamSuccess": 30,
+        "week": 10,
+        "idx": 146
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 100.0,
+        "rawSuccess": 17,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 10,
+        "idx": 147
+      },
+      {
+        "team": "SEA",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 17,
+        "week": 10,
+        "idx": 147
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 75.0,
+        "rawSuccess": 41,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 25.0,
+        "rawOppTeamSuccess": 14,
+        "week": 10,
+        "idx": 148
+      },
+      {
+        "team": "LV",
+        "success": 25.0,
+        "rawSuccess": 14,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 75.0,
+        "rawOppTeamSuccess": 41,
+        "week": 10,
+        "idx": 148
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 76.0,
+        "rawSuccess": 31,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 24.0,
+        "rawOppTeamSuccess": 10,
+        "week": 10,
+        "idx": 149
+      },
+      {
+        "team": "LAR",
+        "success": 24.0,
+        "rawSuccess": 10,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 76.0,
+        "rawOppTeamSuccess": 31,
+        "week": 10,
+        "idx": 149
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "NE",
+        "success": 100.0,
+        "rawSuccess": 25,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 11,
+        "idx": 150
+      },
+      {
+        "team": "ATL",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 25,
+        "week": 11,
+        "idx": 150
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 73.0,
+        "rawSuccess": 41,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 15,
+        "week": 11,
+        "idx": 151
+      },
+      {
+        "team": "BUF",
+        "success": 27.0,
+        "rawSuccess": 15,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 41,
+        "week": 11,
+        "idx": 151
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 55.0,
+        "rawSuccess": 16,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 13,
+        "week": 11,
+        "idx": 152
+      },
+      {
+        "team": "CHI",
+        "success": 45.0,
+        "rawSuccess": 13,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 16,
+        "week": 11,
+        "idx": 152
+      }
+    ],
+    [
+      {
+        "team": "HOU",
+        "success": 63.0,
+        "rawSuccess": 22,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 37.0,
+        "rawOppTeamSuccess": 13,
+        "week": 11,
+        "idx": 153
+      },
+      {
+        "team": "TEN",
+        "success": 37.0,
+        "rawSuccess": 13,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 63.0,
+        "rawOppTeamSuccess": 22,
+        "week": 11,
+        "idx": 153
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 75.0,
+        "rawSuccess": 30,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 25.0,
+        "rawOppTeamSuccess": 10,
+        "week": 11,
+        "idx": 154
+      },
+      {
+        "team": "JAX",
+        "success": 25.0,
+        "rawSuccess": 10,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 75.0,
+        "rawOppTeamSuccess": 30,
+        "week": 11,
+        "idx": 154
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 58.0,
+        "rawSuccess": 40,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 29,
+        "week": 11,
+        "idx": 155
+      },
+      {
+        "team": "NO",
+        "success": 42.0,
+        "rawSuccess": 29,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 40,
+        "week": 11,
+        "idx": 155
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 56.0,
+        "rawSuccess": 27,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 21,
+        "week": 11,
+        "idx": 156
+      },
+      {
+        "team": "CAR",
+        "success": 44.0,
+        "rawSuccess": 21,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 27,
+        "week": 11,
+        "idx": 156
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 57.0,
+        "rawSuccess": 13,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 10,
+        "week": 11,
+        "idx": 157
+      },
+      {
+        "team": "DET",
+        "success": 43.0,
+        "rawSuccess": 10,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 13,
+        "week": 11,
+        "idx": 157
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 11,
+        "idx": 158
+      },
+      {
+        "team": "GB",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 11,
+        "idx": 158
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 59.0,
+        "rawSuccess": 24,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 17,
+        "week": 11,
+        "idx": 159
+      },
+      {
+        "team": "NYJ",
+        "success": 41.0,
+        "rawSuccess": 17,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 24,
+        "week": 11,
+        "idx": 159
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 71.0,
+        "rawSuccess": 32,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 13,
+        "week": 11,
+        "idx": 160
+      },
+      {
+        "team": "LV",
+        "success": 29.0,
+        "rawSuccess": 13,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 32,
+        "week": 11,
+        "idx": 160
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 68.0,
+        "rawSuccess": 19,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 32.0,
+        "rawOppTeamSuccess": 9,
+        "week": 11,
+        "idx": 161
+      },
+      {
+        "team": "DAL",
+        "success": 32.0,
+        "rawSuccess": 9,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 68.0,
+        "rawOppTeamSuccess": 19,
+        "week": 11,
+        "idx": 161
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 64.0,
+        "rawSuccess": 23,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 13,
+        "week": 11,
+        "idx": 162
+      },
+      {
+        "team": "SEA",
+        "success": 36.0,
+        "rawSuccess": 13,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 23,
+        "week": 11,
+        "idx": 162
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 53.0,
+        "rawSuccess": 41,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 37,
+        "week": 11,
+        "idx": 163
+      },
+      {
+        "team": "PIT",
+        "success": 47.0,
+        "rawSuccess": 37,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 41,
+        "week": 11,
+        "idx": 163
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 75.0,
+        "rawSuccess": 30,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 25.0,
+        "rawOppTeamSuccess": 10,
+        "week": 11,
+        "idx": 164
+      },
+      {
+        "team": "NYG",
+        "success": 25.0,
+        "rawSuccess": 10,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 75.0,
+        "rawOppTeamSuccess": 30,
+        "week": 11,
+        "idx": 164
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "CHI",
+        "success": 53.0,
+        "rawSuccess": 16,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 14,
+        "week": 12,
+        "idx": 165
+      },
+      {
+        "team": "DET",
+        "success": 47.0,
+        "rawSuccess": 14,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 16,
+        "week": 12,
+        "idx": 165
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 52.0,
+        "rawSuccess": 36,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 33,
+        "week": 12,
+        "idx": 166
+      },
+      {
+        "team": "DAL",
+        "success": 48.0,
+        "rawSuccess": 33,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 36,
+        "week": 12,
+        "idx": 166
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 84.0,
+        "rawSuccess": 31,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 16.0,
+        "rawOppTeamSuccess": 6,
+        "week": 12,
+        "idx": 167
+      },
+      {
+        "team": "NO",
+        "success": 16.0,
+        "rawSuccess": 6,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 84.0,
+        "rawOppTeamSuccess": 31,
+        "week": 12,
+        "idx": 167
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 60.0,
+        "rawSuccess": 21,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 14,
+        "week": 12,
+        "idx": 168
+      },
+      {
+        "team": "JAX",
+        "success": 40.0,
+        "rawSuccess": 14,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 21,
+        "week": 12,
+        "idx": 168
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 80.0,
+        "rawSuccess": 41,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 20.0,
+        "rawOppTeamSuccess": 10,
+        "week": 12,
+        "idx": 169
+      },
+      {
+        "team": "PIT",
+        "success": 20.0,
+        "rawSuccess": 10,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 80.0,
+        "rawOppTeamSuccess": 41,
+        "week": 12,
+        "idx": 169
+      }
+    ],
+    [
+      {
+        "team": "NYJ",
+        "success": 60.0,
+        "rawSuccess": 21,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 14,
+        "week": 12,
+        "idx": 170
+      },
+      {
+        "team": "HOU",
+        "success": 40.0,
+        "rawSuccess": 14,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 21,
+        "week": 12,
+        "idx": 170
+      }
+    ],
+    [
+      {
+        "team": "NYG",
+        "success": 65.0,
+        "rawSuccess": 13,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 7,
+        "week": 12,
+        "idx": 171
+      },
+      {
+        "team": "PHI",
+        "success": 35.0,
+        "rawSuccess": 7,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 13,
+        "week": 12,
+        "idx": 171
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 77.0,
+        "rawSuccess": 33,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 10,
+        "week": 12,
+        "idx": 172
+      },
+      {
+        "team": "CAR",
+        "success": 23.0,
+        "rawSuccess": 10,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 33,
+        "week": 12,
+        "idx": 172
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 55.0,
+        "rawSuccess": 38,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 31,
+        "week": 12,
+        "idx": 173
+      },
+      {
+        "team": "IND",
+        "success": 45.0,
+        "rawSuccess": 31,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 38,
+        "week": 12,
+        "idx": 173
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 73.0,
+        "rawSuccess": 36,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 13,
+        "week": 12,
+        "idx": 174
+      },
+      {
+        "team": "TEN",
+        "success": 27.0,
+        "rawSuccess": 13,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 36,
+        "week": 12,
+        "idx": 174
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 68.0,
+        "rawSuccess": 28,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 32.0,
+        "rawOppTeamSuccess": 13,
+        "week": 12,
+        "idx": 175
+      },
+      {
+        "team": "LAC",
+        "success": 32.0,
+        "rawSuccess": 13,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 68.0,
+        "rawOppTeamSuccess": 28,
+        "week": 12,
+        "idx": 175
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 57.0,
+        "rawSuccess": 34,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 26,
+        "week": 12,
+        "idx": 176
+      },
+      {
+        "team": "MIN",
+        "success": 43.0,
+        "rawSuccess": 26,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 34,
+        "week": 12,
+        "idx": 176
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 56.0,
+        "rawSuccess": 36,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 28,
+        "week": 12,
+        "idx": 177
+      },
+      {
+        "team": "LAR",
+        "success": 44.0,
+        "rawSuccess": 28,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 36,
+        "week": 12,
+        "idx": 177
+      }
+    ],
+    [
+      {
+        "team": "BAL",
+        "success": 62.0,
+        "rawSuccess": 16,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 38.0,
+        "rawOppTeamSuccess": 10,
+        "week": 12,
+        "idx": 178
+      },
+      {
+        "team": "CLE",
+        "success": 38.0,
+        "rawSuccess": 10,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 62.0,
+        "rawOppTeamSuccess": 16,
+        "week": 12,
+        "idx": 178
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 53.0,
+        "rawSuccess": 17,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 15,
+        "week": 12,
+        "idx": 179
+      },
+      {
+        "team": "SEA",
+        "success": 47.0,
+        "rawSuccess": 15,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 17,
+        "week": 12,
+        "idx": 179
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "DAL",
+        "success": 61.0,
+        "rawSuccess": 27,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 17,
+        "week": 13,
+        "idx": 180
+      },
+      {
+        "team": "NO",
+        "success": 39.0,
+        "rawSuccess": 17,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 27,
+        "week": 13,
+        "idx": 180
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 64.0,
+        "rawSuccess": 30,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 17,
+        "week": 13,
+        "idx": 181
+      },
+      {
+        "team": "ATL",
+        "success": 36.0,
+        "rawSuccess": 17,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 30,
+        "week": 13,
+        "idx": 181
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 60.0,
+        "rawSuccess": 33,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 22,
+        "week": 13,
+        "idx": 182
+      },
+      {
+        "team": "CHI",
+        "success": 40.0,
+        "rawSuccess": 22,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 33,
+        "week": 13,
+        "idx": 182
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 65.0,
+        "rawSuccess": 41,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 22,
+        "week": 13,
+        "idx": 183
+      },
+      {
+        "team": "CIN",
+        "success": 35.0,
+        "rawSuccess": 22,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 41,
+        "week": 13,
+        "idx": 183
+      }
+    ],
+    [
+      {
+        "team": "DET",
+        "success": 52.0,
+        "rawSuccess": 29,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 27,
+        "week": 13,
+        "idx": 184
+      },
+      {
+        "team": "MIN",
+        "success": 48.0,
+        "rawSuccess": 27,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 29,
+        "week": 13,
+        "idx": 184
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 65.0,
+        "rawSuccess": 33,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 18,
+        "week": 13,
+        "idx": 185
+      },
+      {
+        "team": "NYJ",
+        "success": 35.0,
+        "rawSuccess": 18,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 33,
+        "week": 13,
+        "idx": 185
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 100.0,
+        "rawSuccess": 31,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 13,
+        "idx": 186
+      },
+      {
+        "team": "HOU",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 31,
+        "week": 13,
+        "idx": 186
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 69.0,
+        "rawSuccess": 20,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 31.0,
+        "rawOppTeamSuccess": 9,
+        "week": 13,
+        "idx": 187
+      },
+      {
+        "team": "NYG",
+        "success": 31.0,
+        "rawSuccess": 9,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 69.0,
+        "rawOppTeamSuccess": 20,
+        "week": 13,
+        "idx": 187
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 57.0,
+        "rawSuccess": 30,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 23,
+        "week": 13,
+        "idx": 188
+      },
+      {
+        "team": "SF",
+        "success": 43.0,
+        "rawSuccess": 23,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 30,
+        "week": 13,
+        "idx": 188
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 53.0,
+        "rawSuccess": 17,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 15,
+        "week": 13,
+        "idx": 189
+      },
+      {
+        "team": "LV",
+        "success": 47.0,
+        "rawSuccess": 15,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 17,
+        "week": 13,
+        "idx": 189
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 84.0,
+        "rawSuccess": 37,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 16.0,
+        "rawOppTeamSuccess": 7,
+        "week": 13,
+        "idx": 190
+      },
+      {
+        "team": "JAX",
+        "success": 16.0,
+        "rawSuccess": 7,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 84.0,
+        "rawOppTeamSuccess": 37,
+        "week": 13,
+        "idx": 190
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 51.0,
+        "rawSuccess": 20,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 19,
+        "week": 13,
+        "idx": 191
+      },
+      {
+        "team": "BAL",
+        "success": 49.0,
+        "rawSuccess": 19,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 20,
+        "week": 13,
+        "idx": 191
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 71.0,
+        "rawSuccess": 22,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 9,
+        "week": 13,
+        "idx": 192
+      },
+      {
+        "team": "DEN",
+        "success": 29.0,
+        "rawSuccess": 9,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 22,
+        "week": 13,
+        "idx": 192
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 58.0,
+        "rawSuccess": 14,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 10,
+        "week": 13,
+        "idx": 193
+      },
+      {
+        "team": "BUF",
+        "success": 42.0,
+        "rawSuccess": 10,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 14,
+        "week": 13,
+        "idx": 193
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "MIN",
+        "success": 56.0,
+        "rawSuccess": 36,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 28,
+        "week": 14,
+        "idx": 194
+      },
+      {
+        "team": "PIT",
+        "success": 44.0,
+        "rawSuccess": 28,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 36,
+        "week": 14,
+        "idx": 194
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 58.0,
+        "rawSuccess": 29,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 21,
+        "week": 14,
+        "idx": 195
+      },
+      {
+        "team": "CAR",
+        "success": 42.0,
+        "rawSuccess": 21,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 29,
+        "week": 14,
+        "idx": 195
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 53.0,
+        "rawSuccess": 26,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 23,
+        "week": 14,
+        "idx": 196
+      },
+      {
+        "team": "CIN",
+        "success": 47.0,
+        "rawSuccess": 23,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 26,
+        "week": 14,
+        "idx": 196
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 52.0,
+        "rawSuccess": 24,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 22,
+        "week": 14,
+        "idx": 197
+      },
+      {
+        "team": "BAL",
+        "success": 48.0,
+        "rawSuccess": 22,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 24,
+        "week": 14,
+        "idx": 197
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 57.0,
+        "rawSuccess": 27,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 20,
+        "week": 14,
+        "idx": 198
+      },
+      {
+        "team": "WAS",
+        "success": 43.0,
+        "rawSuccess": 20,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 27,
+        "week": 14,
+        "idx": 198
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 72.0,
+        "rawSuccess": 33,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 28.0,
+        "rawOppTeamSuccess": 13,
+        "week": 14,
+        "idx": 199
+      },
+      {
+        "team": "HOU",
+        "success": 28.0,
+        "rawSuccess": 13,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 72.0,
+        "rawOppTeamSuccess": 33,
+        "week": 14,
+        "idx": 199
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 100.0,
+        "rawSuccess": 20,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 14,
+        "idx": 200
+      },
+      {
+        "team": "JAX",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 20,
+        "week": 14,
+        "idx": 200
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 84.0,
+        "rawSuccess": 48,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 16.0,
+        "rawOppTeamSuccess": 9,
+        "week": 14,
+        "idx": 201
+      },
+      {
+        "team": "LV",
+        "success": 16.0,
+        "rawSuccess": 9,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 84.0,
+        "rawOppTeamSuccess": 48,
+        "week": 14,
+        "idx": 201
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 77.0,
+        "rawSuccess": 30,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 9,
+        "week": 14,
+        "idx": 202
+      },
+      {
+        "team": "NYJ",
+        "success": 23.0,
+        "rawSuccess": 9,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 30,
+        "week": 14,
+        "idx": 202
+      }
+    ],
+    [
+      {
+        "team": "DEN",
+        "success": 79.0,
+        "rawSuccess": 38,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 21.0,
+        "rawOppTeamSuccess": 10,
+        "week": 14,
+        "idx": 203
+      },
+      {
+        "team": "DET",
+        "success": 21.0,
+        "rawSuccess": 10,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 79.0,
+        "rawOppTeamSuccess": 38,
+        "week": 14,
+        "idx": 203
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 64.0,
+        "rawSuccess": 37,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 21,
+        "week": 14,
+        "idx": 204
+      },
+      {
+        "team": "NYG",
+        "success": 36.0,
+        "rawSuccess": 21,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 37,
+        "week": 14,
+        "idx": 204
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 55.0,
+        "rawSuccess": 33,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 27,
+        "week": 14,
+        "idx": 205
+      },
+      {
+        "team": "BUF",
+        "success": 45.0,
+        "rawSuccess": 27,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 33,
+        "week": 14,
+        "idx": 205
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 60.0,
+        "rawSuccess": 45,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 30,
+        "week": 14,
+        "idx": 206
+      },
+      {
+        "team": "CHI",
+        "success": 40.0,
+        "rawSuccess": 30,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 45,
+        "week": 14,
+        "idx": 206
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 57.0,
+        "rawSuccess": 30,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 23,
+        "week": 14,
+        "idx": 207
+      },
+      {
+        "team": "ARI",
+        "success": 43.0,
+        "rawSuccess": 23,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 30,
+        "week": 14,
+        "idx": 207
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "KC",
+        "success": 55.0,
+        "rawSuccess": 34,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 28,
+        "week": 15,
+        "idx": 208
+      },
+      {
+        "team": "LAC",
+        "success": 45.0,
+        "rawSuccess": 28,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 34,
+        "week": 15,
+        "idx": 208
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 61.0,
+        "rawSuccess": 27,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 17,
+        "week": 15,
+        "idx": 209
+      },
+      {
+        "team": "NE",
+        "success": 39.0,
+        "rawSuccess": 17,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 27,
+        "week": 15,
+        "idx": 209
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 69.0,
+        "rawSuccess": 31,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 31.0,
+        "rawOppTeamSuccess": 14,
+        "week": 15,
+        "idx": 210
+      },
+      {
+        "team": "CAR",
+        "success": 31.0,
+        "rawSuccess": 14,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 69.0,
+        "rawOppTeamSuccess": 31,
+        "week": 15,
+        "idx": 210
+      }
+    ],
+    [
+      {
+        "team": "DET",
+        "success": 71.0,
+        "rawSuccess": 30,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 12,
+        "week": 15,
+        "idx": 211
+      },
+      {
+        "team": "ARI",
+        "success": 29.0,
+        "rawSuccess": 12,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 30,
+        "week": 15,
+        "idx": 211
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 78.0,
+        "rawSuccess": 21,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 22.0,
+        "rawOppTeamSuccess": 6,
+        "week": 15,
+        "idx": 212
+      },
+      {
+        "team": "NYG",
+        "success": 22.0,
+        "rawSuccess": 6,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 78.0,
+        "rawOppTeamSuccess": 21,
+        "week": 15,
+        "idx": 212
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 51.0,
+        "rawSuccess": 31,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 30,
+        "week": 15,
+        "idx": 213
+      },
+      {
+        "team": "BAL",
+        "success": 49.0,
+        "rawSuccess": 30,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 31,
+        "week": 15,
+        "idx": 213
+      }
+    ],
+    [
+      {
+        "team": "HOU",
+        "success": 65.0,
+        "rawSuccess": 30,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 16,
+        "week": 15,
+        "idx": 214
+      },
+      {
+        "team": "JAX",
+        "success": 35.0,
+        "rawSuccess": 16,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 30,
+        "week": 15,
+        "idx": 214
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 56.0,
+        "rawSuccess": 31,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 24,
+        "week": 15,
+        "idx": 215
+      },
+      {
+        "team": "NYJ",
+        "success": 44.0,
+        "rawSuccess": 24,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 31,
+        "week": 15,
+        "idx": 215
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 59.0,
+        "rawSuccess": 19,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 13,
+        "week": 15,
+        "idx": 216
+      },
+      {
+        "team": "TEN",
+        "success": 41.0,
+        "rawSuccess": 13,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 19,
+        "week": 15,
+        "idx": 216
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 70.0,
+        "rawSuccess": 31,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 30.0,
+        "rawOppTeamSuccess": 13,
+        "week": 15,
+        "idx": 217
+      },
+      {
+        "team": "ATL",
+        "success": 30.0,
+        "rawSuccess": 13,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 70.0,
+        "rawOppTeamSuccess": 31,
+        "week": 15,
+        "idx": 217
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 60.0,
+        "rawSuccess": 15,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 10,
+        "week": 15,
+        "idx": 218
+      },
+      {
+        "team": "DEN",
+        "success": 40.0,
+        "rawSuccess": 10,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 15,
+        "week": 15,
+        "idx": 218
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 100.0,
+        "rawSuccess": 9,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 0.0,
+        "rawOppTeamSuccess": 0,
+        "week": 15,
+        "idx": 219
+      },
+      {
+        "team": "TB",
+        "success": 0.0,
+        "rawSuccess": 0,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 100.0,
+        "rawOppTeamSuccess": 9,
+        "week": 15,
+        "idx": 219
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 53.0,
+        "rawSuccess": 16,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 14,
+        "week": 15,
+        "idx": 220
+      },
+      {
+        "team": "CLE",
+        "success": 47.0,
+        "rawSuccess": 14,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 16,
+        "week": 15,
+        "idx": 220
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 65.0,
+        "rawSuccess": 17,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 9,
+        "week": 15,
+        "idx": 221
+      },
+      {
+        "team": "CHI",
+        "success": 35.0,
+        "rawSuccess": 9,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 17,
+        "week": 15,
+        "idx": 221
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 61.0,
+        "rawSuccess": 27,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 17,
+        "week": 15,
+        "idx": 222
+      },
+      {
+        "team": "WAS",
+        "success": 39.0,
+        "rawSuccess": 17,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 27,
+        "week": 15,
+        "idx": 222
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 67.0,
+        "rawSuccess": 20,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 33.0,
+        "rawOppTeamSuccess": 10,
+        "week": 15,
+        "idx": 223
+      },
+      {
+        "team": "SEA",
+        "success": 33.0,
+        "rawSuccess": 10,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 67.0,
+        "rawOppTeamSuccess": 20,
+        "week": 15,
+        "idx": 223
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "TEN",
+        "success": 54.0,
+        "rawSuccess": 20,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 17,
+        "week": 16,
+        "idx": 224
+      },
+      {
+        "team": "SF",
+        "success": 46.0,
+        "rawSuccess": 17,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 20,
+        "week": 16,
+        "idx": 224
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 52.0,
+        "rawSuccess": 24,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 22,
+        "week": 16,
+        "idx": 225
+      },
+      {
+        "team": "CLE",
+        "success": 48.0,
+        "rawSuccess": 22,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 24,
+        "week": 16,
+        "idx": 225
+      }
+    ],
+    [
+      {
+        "team": "IND",
+        "success": 58.0,
+        "rawSuccess": 22,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 16,
+        "week": 16,
+        "idx": 226
+      },
+      {
+        "team": "ARI",
+        "success": 42.0,
+        "rawSuccess": 16,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 22,
+        "week": 16,
+        "idx": 226
+      }
+    ],
+    [
+      {
+        "team": "ATL",
+        "success": 56.0,
+        "rawSuccess": 20,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 16,
+        "week": 16,
+        "idx": 227
+      },
+      {
+        "team": "DET",
+        "success": 44.0,
+        "rawSuccess": 16,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 20,
+        "week": 16,
+        "idx": 227
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 61.0,
+        "rawSuccess": 33,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 39.0,
+        "rawOppTeamSuccess": 21,
+        "week": 16,
+        "idx": 228
+      },
+      {
+        "team": "NE",
+        "success": 39.0,
+        "rawSuccess": 21,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 61.0,
+        "rawOppTeamSuccess": 33,
+        "week": 16,
+        "idx": 228
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 84.0,
+        "rawSuccess": 32,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 16.0,
+        "rawOppTeamSuccess": 6,
+        "week": 16,
+        "idx": 229
+      },
+      {
+        "team": "CAR",
+        "success": 16.0,
+        "rawSuccess": 6,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 84.0,
+        "rawOppTeamSuccess": 32,
+        "week": 16,
+        "idx": 229
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 66.0,
+        "rawSuccess": 41,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 21,
+        "week": 16,
+        "idx": 230
+      },
+      {
+        "team": "BAL",
+        "success": 34.0,
+        "rawSuccess": 21,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 41,
+        "week": 16,
+        "idx": 230
+      }
+    ],
+    [
+      {
+        "team": "HOU",
+        "success": 59.0,
+        "rawSuccess": 41,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 41.0,
+        "rawOppTeamSuccess": 29,
+        "week": 16,
+        "idx": 231
+      },
+      {
+        "team": "LAC",
+        "success": 41.0,
+        "rawSuccess": 29,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 59.0,
+        "rawOppTeamSuccess": 41,
+        "week": 16,
+        "idx": 231
+      }
+    ],
+    [
+      {
+        "team": "NYJ",
+        "success": 55.0,
+        "rawSuccess": 26,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 21,
+        "week": 16,
+        "idx": 232
+      },
+      {
+        "team": "JAX",
+        "success": 45.0,
+        "rawSuccess": 21,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 26,
+        "week": 16,
+        "idx": 232
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 57.0,
+        "rawSuccess": 30,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 23,
+        "week": 16,
+        "idx": 233
+      },
+      {
+        "team": "MIN",
+        "success": 43.0,
+        "rawSuccess": 23,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 30,
+        "week": 16,
+        "idx": 233
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 77.0,
+        "rawSuccess": 34,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 10,
+        "week": 16,
+        "idx": 234
+      },
+      {
+        "team": "NYG",
+        "success": 23.0,
+        "rawSuccess": 10,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 34,
+        "week": 16,
+        "idx": 234
+      }
+    ],
+    [
+      {
+        "team": "CHI",
+        "success": 51.0,
+        "rawSuccess": 25,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 24,
+        "week": 16,
+        "idx": 235
+      },
+      {
+        "team": "SEA",
+        "success": 49.0,
+        "rawSuccess": 24,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 25,
+        "week": 16,
+        "idx": 235
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 57.0,
+        "rawSuccess": 17,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 13,
+        "week": 16,
+        "idx": 236
+      },
+      {
+        "team": "DEN",
+        "success": 43.0,
+        "rawSuccess": 13,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 17,
+        "week": 16,
+        "idx": 236
+      }
+    ],
+    [
+      {
+        "team": "KC",
+        "success": 78.0,
+        "rawSuccess": 36,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 22.0,
+        "rawOppTeamSuccess": 10,
+        "week": 16,
+        "idx": 237
+      },
+      {
+        "team": "PIT",
+        "success": 22.0,
+        "rawSuccess": 10,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 78.0,
+        "rawOppTeamSuccess": 36,
+        "week": 16,
+        "idx": 237
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 80.0,
+        "rawSuccess": 56,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 20.0,
+        "rawOppTeamSuccess": 14,
+        "week": 16,
+        "idx": 238
+      },
+      {
+        "team": "WAS",
+        "success": 20.0,
+        "rawSuccess": 14,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 80.0,
+        "rawOppTeamSuccess": 56,
+        "week": 16,
+        "idx": 238
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 87.0,
+        "rawSuccess": 20,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 13.0,
+        "rawOppTeamSuccess": 3,
+        "week": 16,
+        "idx": 239
+      },
+      {
+        "team": "NO",
+        "success": 13.0,
+        "rawSuccess": 3,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 87.0,
+        "rawOppTeamSuccess": 20,
+        "week": 16,
+        "idx": 239
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "BUF",
+        "success": 66.0,
+        "rawSuccess": 29,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 15,
+        "week": 17,
+        "idx": 240
+      },
+      {
+        "team": "ATL",
+        "success": 34.0,
+        "rawSuccess": 15,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 29,
+        "week": 17,
+        "idx": 240
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 64.0,
+        "rawSuccess": 18,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 10,
+        "week": 17,
+        "idx": 241
+      },
+      {
+        "team": "CAR",
+        "success": 36.0,
+        "rawSuccess": 10,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 18,
+        "week": 17,
+        "idx": 241
+      }
+    ],
+    [
+      {
+        "team": "CHI",
+        "success": 91.0,
+        "rawSuccess": 29,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 9.0,
+        "rawOppTeamSuccess": 3,
+        "week": 17,
+        "idx": 242
+      },
+      {
+        "team": "NYG",
+        "success": 9.0,
+        "rawSuccess": 3,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 91.0,
+        "rawOppTeamSuccess": 29,
+        "week": 17,
+        "idx": 242
+      }
+    ],
+    [
+      {
+        "team": "CIN",
+        "success": 52.0,
+        "rawSuccess": 34,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 31,
+        "week": 17,
+        "idx": 243
+      },
+      {
+        "team": "KC",
+        "success": 48.0,
+        "rawSuccess": 31,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 34,
+        "week": 17,
+        "idx": 243
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 53.0,
+        "rawSuccess": 23,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 20,
+        "week": 17,
+        "idx": 244
+      },
+      {
+        "team": "IND",
+        "success": 47.0,
+        "rawSuccess": 20,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 23,
+        "week": 17,
+        "idx": 244
+      }
+    ],
+    [
+      {
+        "team": "ARI",
+        "success": 53.0,
+        "rawSuccess": 25,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 22,
+        "week": 17,
+        "idx": 245
+      },
+      {
+        "team": "DAL",
+        "success": 47.0,
+        "rawSuccess": 22,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 25,
+        "week": 17,
+        "idx": 245
+      }
+    ],
+    [
+      {
+        "team": "NE",
+        "success": 83.0,
+        "rawSuccess": 50,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 17.0,
+        "rawOppTeamSuccess": 10,
+        "week": 17,
+        "idx": 246
+      },
+      {
+        "team": "JAX",
+        "success": 17.0,
+        "rawSuccess": 10,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 83.0,
+        "rawOppTeamSuccess": 50,
+        "week": 17,
+        "idx": 246
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 92.0,
+        "rawSuccess": 34,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 8.0,
+        "rawOppTeamSuccess": 3,
+        "week": 17,
+        "idx": 247
+      },
+      {
+        "team": "MIA",
+        "success": 8.0,
+        "rawSuccess": 3,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 92.0,
+        "rawOppTeamSuccess": 34,
+        "week": 17,
+        "idx": 247
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 54.0,
+        "rawSuccess": 28,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 24,
+        "week": 17,
+        "idx": 248
+      },
+      {
+        "team": "NYJ",
+        "success": 46.0,
+        "rawSuccess": 24,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 28,
+        "week": 17,
+        "idx": 248
+      }
+    ],
+    [
+      {
+        "team": "PHI",
+        "success": 56.0,
+        "rawSuccess": 20,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 16,
+        "week": 17,
+        "idx": 249
+      },
+      {
+        "team": "WAS",
+        "success": 44.0,
+        "rawSuccess": 16,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 20,
+        "week": 17,
+        "idx": 249
+      }
+    ],
+    [
+      {
+        "team": "LAC",
+        "success": 72.0,
+        "rawSuccess": 34,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 28.0,
+        "rawOppTeamSuccess": 13,
+        "week": 17,
+        "idx": 250
+      },
+      {
+        "team": "DEN",
+        "success": 28.0,
+        "rawSuccess": 13,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 72.0,
+        "rawOppTeamSuccess": 34,
+        "week": 17,
+        "idx": 250
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 77.0,
+        "rawSuccess": 23,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 23.0,
+        "rawOppTeamSuccess": 7,
+        "week": 17,
+        "idx": 251
+      },
+      {
+        "team": "HOU",
+        "success": 23.0,
+        "rawSuccess": 7,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 77.0,
+        "rawOppTeamSuccess": 23,
+        "week": 17,
+        "idx": 251
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 64.0,
+        "rawSuccess": 51,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 36.0,
+        "rawOppTeamSuccess": 29,
+        "week": 17,
+        "idx": 252
+      },
+      {
+        "team": "DET",
+        "success": 36.0,
+        "rawSuccess": 29,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 64.0,
+        "rawOppTeamSuccess": 51,
+        "week": 17,
+        "idx": 252
+      }
+    ],
+    [
+      {
+        "team": "LAR",
+        "success": 51.0,
+        "rawSuccess": 20,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 49.0,
+        "rawOppTeamSuccess": 19,
+        "week": 17,
+        "idx": 253
+      },
+      {
+        "team": "BAL",
+        "success": 49.0,
+        "rawSuccess": 19,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 51.0,
+        "rawOppTeamSuccess": 20,
+        "week": 17,
+        "idx": 253
+      }
+    ],
+    [
+      {
+        "team": "GB",
+        "success": 79.0,
+        "rawSuccess": 37,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 21.0,
+        "rawOppTeamSuccess": 10,
+        "week": 17,
+        "idx": 254
+      },
+      {
+        "team": "MIN",
+        "success": 21.0,
+        "rawSuccess": 10,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 79.0,
+        "rawOppTeamSuccess": 37,
+        "week": 17,
+        "idx": 254
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 65.0,
+        "rawSuccess": 26,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 14,
+        "week": 17,
+        "idx": 255
+      },
+      {
+        "team": "CLE",
+        "success": 35.0,
+        "rawSuccess": 14,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 26,
+        "week": 17,
+        "idx": 255
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "team": "KC",
+        "success": 54.0,
+        "rawSuccess": 28,
+        "oppTeam": "DEN",
+        "oppTeamSuccess": 46.0,
+        "rawOppTeamSuccess": 24,
+        "week": 18,
+        "idx": 256
+      },
+      {
+        "team": "DEN",
+        "success": 46.0,
+        "rawSuccess": 24,
+        "oppTeam": "KC",
+        "oppTeamSuccess": 54.0,
+        "rawOppTeamSuccess": 28,
+        "week": 18,
+        "idx": 256
+      }
+    ],
+    [
+      {
+        "team": "DAL",
+        "success": 66.0,
+        "rawSuccess": 51,
+        "oppTeam": "PHI",
+        "oppTeamSuccess": 34.0,
+        "rawOppTeamSuccess": 26,
+        "week": 18,
+        "idx": 257
+      },
+      {
+        "team": "PHI",
+        "success": 34.0,
+        "rawSuccess": 26,
+        "oppTeam": "DAL",
+        "oppTeamSuccess": 66.0,
+        "rawOppTeamSuccess": 51,
+        "week": 18,
+        "idx": 257
+      }
+    ],
+    [
+      {
+        "team": "NO",
+        "success": 60.0,
+        "rawSuccess": 30,
+        "oppTeam": "ATL",
+        "oppTeamSuccess": 40.0,
+        "rawOppTeamSuccess": 20,
+        "week": 18,
+        "idx": 258
+      },
+      {
+        "team": "ATL",
+        "success": 40.0,
+        "rawSuccess": 20,
+        "oppTeam": "NO",
+        "oppTeamSuccess": 60.0,
+        "rawOppTeamSuccess": 30,
+        "week": 18,
+        "idx": 258
+      }
+    ],
+    [
+      {
+        "team": "BUF",
+        "success": 73.0,
+        "rawSuccess": 27,
+        "oppTeam": "NYJ",
+        "oppTeamSuccess": 27.0,
+        "rawOppTeamSuccess": 10,
+        "week": 18,
+        "idx": 259
+      },
+      {
+        "team": "NYJ",
+        "success": 27.0,
+        "rawSuccess": 10,
+        "oppTeam": "BUF",
+        "oppTeamSuccess": 73.0,
+        "rawOppTeamSuccess": 27,
+        "week": 18,
+        "idx": 259
+      }
+    ],
+    [
+      {
+        "team": "TB",
+        "success": 71.0,
+        "rawSuccess": 41,
+        "oppTeam": "CAR",
+        "oppTeamSuccess": 29.0,
+        "rawOppTeamSuccess": 17,
+        "week": 18,
+        "idx": 260
+      },
+      {
+        "team": "CAR",
+        "success": 29.0,
+        "rawSuccess": 17,
+        "oppTeam": "TB",
+        "oppTeamSuccess": 71.0,
+        "rawOppTeamSuccess": 41,
+        "week": 18,
+        "idx": 260
+      }
+    ],
+    [
+      {
+        "team": "MIN",
+        "success": 65.0,
+        "rawSuccess": 31,
+        "oppTeam": "CHI",
+        "oppTeamSuccess": 35.0,
+        "rawOppTeamSuccess": 17,
+        "week": 18,
+        "idx": 261
+      },
+      {
+        "team": "CHI",
+        "success": 35.0,
+        "rawSuccess": 17,
+        "oppTeam": "MIN",
+        "oppTeamSuccess": 65.0,
+        "rawOppTeamSuccess": 31,
+        "week": 18,
+        "idx": 261
+      }
+    ],
+    [
+      {
+        "team": "CLE",
+        "success": 57.0,
+        "rawSuccess": 21,
+        "oppTeam": "CIN",
+        "oppTeamSuccess": 43.0,
+        "rawOppTeamSuccess": 16,
+        "week": 18,
+        "idx": 262
+      },
+      {
+        "team": "CIN",
+        "success": 43.0,
+        "rawSuccess": 16,
+        "oppTeam": "CLE",
+        "oppTeamSuccess": 57.0,
+        "rawOppTeamSuccess": 21,
+        "week": 18,
+        "idx": 262
+      }
+    ],
+    [
+      {
+        "team": "JAX",
+        "success": 70.0,
+        "rawSuccess": 26,
+        "oppTeam": "IND",
+        "oppTeamSuccess": 30.0,
+        "rawOppTeamSuccess": 11,
+        "week": 18,
+        "idx": 263
+      },
+      {
+        "team": "IND",
+        "success": 30.0,
+        "rawSuccess": 11,
+        "oppTeam": "JAX",
+        "oppTeamSuccess": 70.0,
+        "rawOppTeamSuccess": 26,
+        "week": 18,
+        "idx": 263
+      }
+    ],
+    [
+      {
+        "team": "DET",
+        "success": 55.0,
+        "rawSuccess": 37,
+        "oppTeam": "GB",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 30,
+        "week": 18,
+        "idx": 264
+      },
+      {
+        "team": "GB",
+        "success": 45.0,
+        "rawSuccess": 30,
+        "oppTeam": "DET",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 37,
+        "week": 18,
+        "idx": 264
+      }
+    ],
+    [
+      {
+        "team": "TEN",
+        "success": 53.0,
+        "rawSuccess": 28,
+        "oppTeam": "HOU",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 25,
+        "week": 18,
+        "idx": 265
+      },
+      {
+        "team": "HOU",
+        "success": 47.0,
+        "rawSuccess": 25,
+        "oppTeam": "TEN",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 28,
+        "week": 18,
+        "idx": 265
+      }
+    ],
+    [
+      {
+        "team": "MIA",
+        "success": 58.0,
+        "rawSuccess": 33,
+        "oppTeam": "NE",
+        "oppTeamSuccess": 42.0,
+        "rawOppTeamSuccess": 24,
+        "week": 18,
+        "idx": 266
+      },
+      {
+        "team": "NE",
+        "success": 42.0,
+        "rawSuccess": 24,
+        "oppTeam": "MIA",
+        "oppTeamSuccess": 58.0,
+        "rawOppTeamSuccess": 33,
+        "week": 18,
+        "idx": 266
+      }
+    ],
+    [
+      {
+        "team": "WAS",
+        "success": 76.0,
+        "rawSuccess": 22,
+        "oppTeam": "NYG",
+        "oppTeamSuccess": 24.0,
+        "rawOppTeamSuccess": 7,
+        "week": 18,
+        "idx": 267
+      },
+      {
+        "team": "NYG",
+        "success": 24.0,
+        "rawSuccess": 7,
+        "oppTeam": "WAS",
+        "oppTeamSuccess": 76.0,
+        "rawOppTeamSuccess": 22,
+        "week": 18,
+        "idx": 267
+      }
+    ],
+    [
+      {
+        "team": "PIT",
+        "success": 55.0,
+        "rawSuccess": 16,
+        "oppTeam": "BAL",
+        "oppTeamSuccess": 45.0,
+        "rawOppTeamSuccess": 13,
+        "week": 18,
+        "idx": 268
+      },
+      {
+        "team": "BAL",
+        "success": 45.0,
+        "rawSuccess": 13,
+        "oppTeam": "PIT",
+        "oppTeamSuccess": 55.0,
+        "rawOppTeamSuccess": 16,
+        "week": 18,
+        "idx": 268
+      }
+    ],
+    [
+      {
+        "team": "SEA",
+        "success": 56.0,
+        "rawSuccess": 38,
+        "oppTeam": "ARI",
+        "oppTeamSuccess": 44.0,
+        "rawOppTeamSuccess": 30,
+        "week": 18,
+        "idx": 269
+      },
+      {
+        "team": "ARI",
+        "success": 44.0,
+        "rawSuccess": 30,
+        "oppTeam": "SEA",
+        "oppTeamSuccess": 56.0,
+        "rawOppTeamSuccess": 38,
+        "week": 18,
+        "idx": 269
+      }
+    ],
+    [
+      {
+        "team": "SF",
+        "success": 53.0,
+        "rawSuccess": 27,
+        "oppTeam": "LAR",
+        "oppTeamSuccess": 47.0,
+        "rawOppTeamSuccess": 24,
+        "week": 18,
+        "idx": 270
+      },
+      {
+        "team": "LAR",
+        "success": 47.0,
+        "rawSuccess": 24,
+        "oppTeam": "SF",
+        "oppTeamSuccess": 53.0,
+        "rawOppTeamSuccess": 27,
+        "week": 18,
+        "idx": 270
+      }
+    ],
+    [
+      {
+        "team": "LV",
+        "success": 52.0,
+        "rawSuccess": 35,
+        "oppTeam": "LAC",
+        "oppTeamSuccess": 48.0,
+        "rawOppTeamSuccess": 32,
+        "week": 18,
+        "idx": 271
+      },
+      {
+        "team": "LAC",
+        "success": 48.0,
+        "rawSuccess": 32,
+        "oppTeam": "LV",
+        "oppTeamSuccess": 52.0,
+        "rawOppTeamSuccess": 35,
+        "week": 18,
+        "idx": 271
+      }
+    ]
+  ]
+]
